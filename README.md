@@ -16,9 +16,9 @@
 
 - 💬 Ask me about **MERN**
 
-- 📫 How to reach me **rohitjaiswalself@gmail.com**
+- 📫 How to reach me **rohitjaiswalself@gmail.com** 
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1QrF9qZZ3KIbBd7q1C7jL4C9BApvgFTEZ/view">Resume</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1apu0KQrlEqlIifnpX10WoyDPAEu938nj/view?usp=sharing">Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
